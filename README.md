@@ -36,9 +36,8 @@ https://drive.google.com/file/d/1zLJvE41HumXKMmK0jC5A_LLRuiajUrV-/view?usp=shari
 
 - This firmware is ONLY for Xiaomi Mi Router 3 (R3)
 - Do NOT flash on R3G or other router models
-- Install Breed Bootloader before flashing Padavan
-- Flashing wrong firmware may brick your router
-- Always backup current firmware/settings before flashing
+- Flashing the wrong firmware may brick your router
+- Always back up the current firmware/settings before flashing
 
 ---
 
@@ -97,6 +96,31 @@ Use at your own risk.
 Custom firmware flashing may void warranty or brick your router if done incorrectly.
 
 ---
+Privacy, control, and features. As mentioned above, this is great piece of hardware that's held back by lacking software (Not to mention it's all in Chinese (Edit: There's a new english version available as of writing this)). But mainly, I don't trust Xiaomi with the gateway of most of my internet usage; their privacy track record isn't exactly great. Switching it to open source firmware gives me piece of mind.
+
+Padavan feature highlights:
+
+Customizable and intuitive user Interface
+
+Hardware offload support (WAN/LAN)
+
+VPN server/client
+
+USB applications: FTP server, Torrent client (Transmission), SMB Server, UPnP/DLNAMedia Server, iTunes Media Server (Firefly)
+
+Support for Entware or Optware Packages
+
+Support for USB 3G/4G modems
+
+ssh/telnet access
+
+Extra DDNS services
+
+Detailed network traffic graph
+
+AiDisk (share your files over the internet)
+
+SAMBA/FTP/Printer Share (via USB port)
 
 # ❤️ Credits
 
